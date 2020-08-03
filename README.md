@@ -94,7 +94,7 @@ The features with data type category were label encoded with the average salary 
 - Major
 - Industry
 ##### Correlation with Target
-Categorical features were label encoded with the mean salary of each value for each Categorical feature. Along with Numeric Features, this label alowed me to then plot the relationship of all features to the salary with a correlation matrix.
+Categorical features were label encoded with the mean salary of each value for each Categorical feature. Along with Numeric Features, this label allowed me to then plot the relationship of all features to the salary with a correlation matrix.
 <p align="center">
   <img src="images/Correlation_heatmap.png"/>
 </p>
